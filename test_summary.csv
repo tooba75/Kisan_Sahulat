@@ -1,0 +1,5 @@
+District,Crop,Acres,Feasibility,Status,Issue,Median profit (PKR),Chance of loss (%)
+Sahiwal,Wheat,5,70,Moderate Risk,Yellow Rust (Stripe Rust),114648.0,4.7
+Multan,Cotton,5,100,Highly Favorable,Whitefly / Cotton Leaf Curl Virus (vector),290752.0,0.2
+Badin,Rice,5,100,Highly Favorable,Rice Blast (Magnaporthe oryzae),326811.0,0.0
+Faisalabad,Wheat,10,100,Highly Favorable,None,753762.0,0.0
